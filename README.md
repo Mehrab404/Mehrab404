@@ -2,7 +2,7 @@
 
 ### About Me
 - 🔭 I’m currently working on my thesis **"Physics-Informed Variational Autoencoders for Cosmological Field Reconstruction and Parameter Inference"**
-- 📍 Location: Dhaka, Bangladesh
+- 📍  Location: Dhaka, Bangladesh
 - 🎓 Education: B.Sc. Computer Science @ BRAC University
 - 🎯 Interests: Machine Learning | Full Stack Development 
 - 🔬 Current Focus: PI VAE based cosmological parameter inference and reconstruction (Thesis Project)
