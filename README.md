@@ -67,7 +67,7 @@
 </div>
 
 ### 📈 Activity Graph
-[![Mehrab404's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehrab404&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mehrab404's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehrab404&theme=react-dark)](https://github.com/Mehrab404)
 ---
 
 ## 🎮 Beyond Code
