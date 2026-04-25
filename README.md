@@ -1,14 +1,14 @@
 # Hi there, I'm Mehrab 👋
 
 ### About Me
-- 🔭 I’m currently exploring feasibilty of local LLM's in edge devices especially low powered ones.
+- 🔭 I’m currently experimenting with deploying and optimizing local LLMs on low-powered devices to enable efficient, low-latency on-device inference and privacy-preserving AI.
 - 📍  Location: Dhaka, Bangladesh
 - 🎓 Education: B.Sc. Computer Science @ BRAC University
 - 🎯 Interests: Machine Learning | Full Stack Development 
 - 🔬 Current Focus: PI VAE based cosmological parameter inference and reconstruction (Thesis Project)
 - 💭 Philosophy: Learn, Code, Build, Repeat 
 
-💡 Currently working on my thesis: Physics-Informed Variational Autoencoders for Cosmological Field Reconstruction and Parameter Inference.
+💡 Currently working on local LLMs on low-powered devices 
 
 
 <br/>
