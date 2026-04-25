@@ -1,4 +1,4 @@
-# Hi there, I'm Mehrabul Islam 👋
+# Hi there, I'm Mehrab 👋
 
 ### About Me
 - 🔭 I’m currently working on my thesis **"Physics-Informed Variational Autoencoders for Cosmological Field Reconstruction and Parameter Inference"**
