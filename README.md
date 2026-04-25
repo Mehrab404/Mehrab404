@@ -1,7 +1,7 @@
 # Hi there, I'm Mehrab 👋
 
 ### About Me
-- 🔭 I’m currently working on my thesis **"Physics-Informed Variational Autoencoders for Cosmological Field Reconstruction and Parameter Inference"**
+- 🔭 I’m currently exploring feasibilty of local LLM's in edge devices especially low powered ones.
 - 📍  Location: Dhaka, Bangladesh
 - 🎓 Education: B.Sc. Computer Science @ BRAC University
 - 🎯 Interests: Machine Learning | Full Stack Development 
